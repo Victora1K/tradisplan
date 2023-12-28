@@ -46,9 +46,6 @@ function DDDSCreen() {
         
       };
       list.push(data);
-      //console.log("RandomOne o.1 value",randomOne(0.1));
-      //console.log("RandomOne o.5 value",randomOne(0.5));
-      //console.log("The trend", trend)
       return data;
     });
   };
